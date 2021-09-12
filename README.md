@@ -9,6 +9,7 @@
   <img align="center" alt="Jozi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jozi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jozi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jozi-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png">
   <img align="right" alt="Jozi-yoda" src="https://images.scrapee.net/result/20210910032248ysOyFDlmKN.gif">
 </div>
   
